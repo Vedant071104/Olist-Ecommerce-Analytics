@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+mysql-connector-python
+python-dotenv
+google-generativeai
